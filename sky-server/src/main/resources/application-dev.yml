@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tDPJ3PWSY38ZuDeXBWy
     access-key-secret: UQGWh9LhGcibv8RvdH0qAdtEZXXKK1
     bucket-name: sky-dongxuluo
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 10
