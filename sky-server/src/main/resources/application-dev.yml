@@ -8,8 +8,8 @@ sky:
     password: 1234
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tDPJ3PWSY38ZuDeXBWy
-    access-key-secret: UQGWh9LhGcibv8RvdH0qAdtEZXXKK1
+    access-key-id:
+    access-key-secret:
     bucket-name: sky-dongxuluo
   redis:
     host: localhost
